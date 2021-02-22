@@ -6,7 +6,7 @@
 
 Self Care Center is a random affirmation and mantra generator that features the ability to generate a message type chosen by the user.
 
-![Annotations](http://www.giphy.com/gifs/NoiVWxmeAW61NYyT2P)
+![Annotations](https://media.giphy.com/media/NoiVWxmeAW61NYyT2P/giphy.gif)
 
 ### Directions:
 
